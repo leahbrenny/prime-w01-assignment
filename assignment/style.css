@@ -23,6 +23,6 @@ img {
   border: 10px solid;
 }
 /* Change the font-family of your list */
-ul.impact {
+ul{
   font-family: Impact, sans-serif;
 }
